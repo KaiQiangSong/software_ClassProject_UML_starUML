@@ -15109,7 +15109,7 @@
 <XPD:REF name="Incomings[1]">97VvA/XLD0ucFxCx9rmSSQAA</XPD:REF>
 <XPD:ATTR name="#EntryActions" type="integer">1</XPD:ATTR>
 <XPD:OBJ name="EntryActions[0]" type="UMLUninterpretedAction" guid="XTQG3F9S8ECeWB6w3IlFwAAA">
-<XPD:ATTR name="Name" type="string">payment_card</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">payment_card</XPD:ATTR>
 <XPD:REF name="EntryState">QJRexGful06nkPbm7OyvqAAA</XPD:REF>
 </XPD:OBJ>
 <XPD:ATTR name="#ExitActions" type="integer">1</XPD:ATTR>
